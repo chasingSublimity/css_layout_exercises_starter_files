@@ -1,0 +1,42 @@
+main {
+	width: 800px;
+	height: 500px;
+	padding-top: 100px;
+	margin: auto;
+	font-size: 0px;
+}
+
+
+.top-row {
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.bottom-row {
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+#green {
+	background-color: green;
+}
+
+#blue {
+	background-color: blue;
+}
+
+#gray {
+	background-color: gray;
+}
+
+#black {
+	background-color: black;
+}
+
+#yellow {
+	background-color: orange;
+}
